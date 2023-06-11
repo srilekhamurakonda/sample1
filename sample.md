@@ -14,6 +14,9 @@ ddddddddddd
 
 
 
+
+
+
 ans
 kjjikkkjjjj
 hjjkiiihjikkkjj
@@ -21,6 +24,8 @@ njjiikiikikikikik
 jmmjjjuujiikikikjj
 
 srilekha
+
+about merge conflicts
 .
 have to understand merge conflicts
 
